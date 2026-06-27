@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "52088142288",
+    "project_id": "tfg-control-obra",
+    "storage_bucket": "tfg-control-obra.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52088142288:android:2f9640d45fe7e17c9f61d5",
+        "android_client_info": {
+          "package_name": "com.example.flutter_tfg_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpCp8cXQjI-dL-sSvyZprbcsYDwnXKYUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52088142288:android:18ef11d51229097e9f61d5",
+        "android_client_info": {
+          "package_name": "com.example.test1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpCp8cXQjI-dL-sSvyZprbcsYDwnXKYUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
