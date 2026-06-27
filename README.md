@@ -15,7 +15,7 @@ Para facilitar la auditoría y la navegación de los tutores dentro del panel, s
 
 | Rol | Usuario / Email de Prueba | Contraseña |
 | :--- | :--- | :--- |
-| **Supervisor de Obra** | `supervisor@prueba.com` | `TfgSiglo21*` |
+| **Supervisor de Obra** | gabriel1964a@gmail.com | MMdd1964@ |
 
 > 💡 **Nota de Uso:** Al ingresar, la plataforma web responsiva te permitirá simular la selección de frentes de obra activos, el control de asistencia del personal técnico y la gestión del flujo de solicitudes de materiales en tiempo real.
 
