@@ -51,7 +51,7 @@ Prototipo funcional desarrollado como Trabajo de Final de Grado (TFG) para la Li
 ## 🚀 Enlaces del Proyecto
 
 *   **Aplicación Web en Producción:** [https://tfg-control-obra.web.app](https://tfg-control-obra.web.app)
-*   **Código Fuente (Repositorio Oficial):** [https://github.com/Gabriel1964a/tfg-control-obra](https://github.com/Gabriel1964a/tfg-control-obra)
+*   **Código Fuente (Repositorio Oficial):** [https://github.com/Gabriel1964/tfg-control-obra](https://github.com/Gabriel1964/tfg-control-obra)
 
 ---
 
